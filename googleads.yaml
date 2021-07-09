@@ -1,7 +1,6 @@
-
-  developer_token: INSERT_HERE
-  login_customer_id: INSERT_HERE
-  validate_only: False
-  client_id: INSERT_HERE
-  client_secret: INSERT_HERE
-  refresh_token: INSERT_HERE
+developer_token: INSERT_HERE
+login_customer_id: INSERT_HERE
+validate_only: False
+client_id: INSERT_HERE
+client_secret: INSERT_HERE
+refresh_token: INSERT_HERE
